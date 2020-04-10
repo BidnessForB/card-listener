@@ -1,0 +1,7 @@
+name: 'card-listener'
+description: 'Respond to card events'
+#inputs:
+#outputs:
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
